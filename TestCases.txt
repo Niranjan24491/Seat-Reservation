@@ -1,0 +1,10 @@
+1. User name and no of Seats are mandatory fields to cofirm booking.
+2. The user should be allowed to select only as many seats as they have entered.
+3. The user should then click on ‘Confirm’ button to indicate their selection is done.
+4. Confirmed seats will be displayed in a table below the seat arrangement.
+5. If all seats are booked, then the alert will be housefull if you click on select.
+6. if no of selected seats is less than the number of seats specified and confirmed, then a alert saying "seats selected and no of seats dont match" will be displayed.
+
+JSFiddle link: https://jsfiddle.net/Niranjan24491/1b5henjq/7/embedded/result/
+
+The total time taken was 3hours ( 2.30 hrs for developing and 0.30 for testing).
